@@ -1,0 +1,14 @@
+    # .dockerignore
+    #==== Folders
+    dist/
+    node_modules/
+    .vscode/
+    .dbdata/
+
+    #==== Files
+    *.log
+    .git
+    .gitignore
+    setup-essentials.md
+    
+

@@ -1,0 +1,1 @@
+sudo service docker start : to start docker from cli
